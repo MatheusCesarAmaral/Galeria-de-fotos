@@ -12,4 +12,4 @@ Esse projeto foi desenvolvido durante o #boracodar da Rocketseat com as seguinte
 - CSS
 
 ## Link do projeto
-Você pode visualizar o projeto através [desse link](https://matheuscesaramaral.github.io/Galeria)
+Você pode visualizar o projeto através [desse link](https://matheuscesaramaral.github.io/Galeria-de-fotos/)
