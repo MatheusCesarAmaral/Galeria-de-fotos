@@ -62,6 +62,10 @@ header i {
     margin-top: 3.2rem;
 }
 
+header img {
+    width: 100px;
+}
+
 main {
     margin-left: 50.6rem;
 }
