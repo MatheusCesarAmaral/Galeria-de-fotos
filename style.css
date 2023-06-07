@@ -132,7 +132,8 @@ main {
 .nav-item:hover {
     background-color: rgba(240, 248, 255, 0.146);
     border-radius: 20px; 
-    
 }
 
- 
+.nav-item {
+    padding: 0px 10px;
+}
