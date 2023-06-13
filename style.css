@@ -11,6 +11,7 @@
     font-size: 50%;
 }
 
+/* muda a scrollbar da página */
 ::-webkit-scrollbar {
     width: 8px;
 }
@@ -38,6 +39,7 @@ img{
     aspect-ratio: 1/1;
 }
 
+/*Definimos nosso grid*/
 .grid {
     display: grid;
     gap: 3.2rem;
@@ -70,6 +72,7 @@ main {
     margin-left: 50.6rem;
 }
 
+/* propriedades do nosso container */
 .model-1 .container:nth-child(1){
     grid-row: 1/3;
 }
@@ -118,6 +121,8 @@ main {
 
     transition: all .4s;
 }
+
+/*colocamos alguns efeitos de hover*/
 .container:hover span {
     visibility: visible;
     opacity: 1;
